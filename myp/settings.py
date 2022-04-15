@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@=&=*4ml57q%txm*9^wmioicdd_dh*aj5@h1r!kb6k98+jr+yk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://morydalton.runflare.run/']
+ALLOWED_HOSTS = ['morydalton.runflare.run']
 
 
 # Application definition
